@@ -1,0 +1,11 @@
+char int float code if else
+while input print return
+//nao sera lido
+///tambem nao
+sera lido \\\
+<= >= == !=
+_variavel
+123 125.7
+'&' "string""string em sequencia"
+variavel_2
+.
